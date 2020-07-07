@@ -10,7 +10,7 @@ import axios from 'axios';
 //     );
 // }
 
-const api = "http://localhost:29/ReactPHPAPI/";
+const api = "http://localhost:29/ReactAPI/";
 
 export default class View extends Component {
     constructor(props){

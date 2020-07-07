@@ -11,7 +11,7 @@ import  {BrowserRouter as Router, Switch, Link, Route} from 'react-router-dom';
 //     );
 // }
 
-const api = "http://localhost:29/ReactPHPAPI/";
+const api = "http://localhost:29/ReactAPI/";
 
 export default class ItemRow extends Component {
     constructor(props){
